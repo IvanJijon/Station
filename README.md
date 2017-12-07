@@ -1,22 +1,22 @@
 # Console d'administration BiHRdy
 
 
- __Développeur(s)__ | __Date__     | __Version Station__           
+ __DÃ©veloppeur(s)__ | __Date__     | __Version Station__           
 :----------------:|:------------:|:------------:
- Ivan JIJON | Décembre 2017| 1.0
+ Ivan JIJON | DÃ©cembre 2017| 1.0
  
 ___
 
 
 # Changelog
 
-Toutes les modifications majeures seront documentées ci dessous.
+Toutes les modifications majeures seront documentÃ©es ci dessous.
 
 ## [1.0] - 12/2017
 
-### Ajouté
+### AjoutÃ©
 - Initialisation du repository
 
-### Modifié
+### ModifiÃ©
 
-### Supprimé
+### SupprimÃ©
